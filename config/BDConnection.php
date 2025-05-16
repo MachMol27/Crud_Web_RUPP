@@ -1,11 +1,11 @@
 <?php
 // namespace config\DBConnection;
 class Database {
-    private $host = 'localhost';
+    private $host = 'dpg-d0ha15qdbo4c73dj2690-a.oregon-postgres.render.com';
     private $port = '5432';
-    private $db   = 'student_management';
-    private $user = 'postgres';
-    private $pass = 'Net2409';
+    private $db   = 'employee_jfcu';
+    private $user = 'employee_jfcu_user';
+    private $pass = 'H5xAvZ00twB2nd61Rh5skOYz3HX5JQiP';
 
     public function getConnection() {
         try {
@@ -19,6 +19,4 @@ class Database {
         }
     }
 }
-
-
 ?>
