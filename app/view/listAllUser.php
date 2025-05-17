@@ -21,7 +21,7 @@
                     <th class="py-3 px-4">First Name</th>
                     <th class="py-3 px-4">Last Name</th>
                     <th class="py-3 px-4">Email</th>
-                    <th class="py-3 px-4">Hire Date</th>
+                    <th class="py-3 px-4">Date</th>
                     <th class="py-3 px-4">Job Title</th>
                     <th class="py-3 px-4">Salary</th>
                     <th class="py-3 px-4">Position</th>

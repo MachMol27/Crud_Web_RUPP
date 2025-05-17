@@ -1,4 +1,4 @@
-<aside class="w-64 h-screen bg-gray-800 text-white p-5 fixed top-0 left-0">
+<aside class="w-64 h-screen bg-slate-800 text-white p-5 fixed top-0 left-0">
     <h2 class="text-2xl font-bold mb-6">Royal University of phnom Penh <br> 
     <span class="text-sm margin-top-10 ">Mach Mol</span> <br>
     <span class="text-sm text-rose-600">Class A6</span>
